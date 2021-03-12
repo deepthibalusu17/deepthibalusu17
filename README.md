@@ -3,8 +3,8 @@ Hi there 👋 I am Deepthi <img src="https://upload.wikimedia.org/wikipedia/comm
 I am a passionate full stack developer.
 Learning everyday and I like to explore new technologies....
 worked on MERN stack projects.
-I’m currently learning graphQL,typescript and enrolled in mongoDB university to master mongoDB
-
+I’m currently learning graphQL,typescript and enrolled in mongoDB university to master mongoDB<br>
+likes: music,singing,sports.<br>
 Happy Coding...
 
 reach me at deepthibalusu@gmail.com
