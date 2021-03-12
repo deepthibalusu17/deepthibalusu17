@@ -1,5 +1,16 @@
-### Hi there 👋
+Hi there 👋 I am Deepthi
 
+I am a passionate full stack developer.
+Learning everyday and I like to explore new technologies....
+worked on MERN stack projects.
+I’m currently learning graphQL and typescript
+
+Happy Coding...
+
+
+
+
+contact : deepthibalusu@gmail.com
 <!--
 **deepthibalusu17/deepthibalusu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
