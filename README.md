@@ -1,4 +1,4 @@
-Hi there 👋 I am Deepthi
+Hi there 👋 I am Deepthi <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Breathe-face-smile.svg/35px-Breathe-face-smile.svg.png"></img>
 
 I am a passionate full stack developer.
 Learning everyday and I like to explore new technologies....
