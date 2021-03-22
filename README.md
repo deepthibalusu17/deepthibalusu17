@@ -4,7 +4,7 @@ I am a passionate full stack developer.
 Learning everyday and I like to explore new technologies....
 worked on MERN stack projects.
 I’m currently learning graphQL,typescript and enrolled in mongoDB university to master mongoDB<br>
-likes: music,singing,sports.<br>
+likes: music,sports.<br>
 Happy Coding...
 
 email:deepthibalusu@gmail.com<br>
