@@ -18,3 +18,4 @@ email:deepthibalusu@gmail.com<br>
 <br />
 <img align="left" alt="Deepthi Balusu" src="https://github-readme-stats.vercel.app/api?username=deepthibalusu17&show_icons=true&locale=en&layout=compact&theme=vue" />
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepthibalusu17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
