@@ -10,3 +10,11 @@ Happy Coding...
 email:deepthibalusu@gmail.com<br>
 <a href="linkedin.com/in/deepthibalusu">linkedin</a>
 
+
+## GitHub Stats:
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepthibalusu17&show_icons=true&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepthibalusu17&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
+<br />
+<img align="left" alt="Sumanth Reddy" src="https://github-readme-stats.vercel.app/api?username=deepthibalusu17&show_icons=true&locale=en&layout=compact&theme=vue" />
+
