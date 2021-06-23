@@ -1,4 +1,4 @@
-Hi there 👋 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Breathe-face-smile.svg/25px-Breathe-face-smile.svg.png"></img>
+Hi there<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Breathe-face-smile.svg/15px-Breathe-face-smile.svg.png"></img>
 
 I am a passionate full stack developer.
 Learning everyday and I like to explore new technologies....
