@@ -8,7 +8,7 @@ likes: music,sports.<br>
 Happy Coding...
 
 email:deepthibalusu@gmail.com<br>
-<a href="https://www.linkedin.com/in/deepthibalusu/">linkedin</a>
+<a href="https://www.linkedin.com/in/deepthibalusu/">Linkedin</a>
 
 
 ## GitHub Stats:
